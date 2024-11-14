@@ -1,4 +1,4 @@
-# Fish2Eat-Discover-Fish-Recipes![Gambar WhatsApp 2024-11-15 pukul 01 55 20_dfadf5af](https://github.com/user-attachments/assets/a6d125cb-6813-403a-aa0b-101be0a0ad88)
+[Gambar WhatsApp 2024-11-15 pukul 01 55 20_dfadf5af](https://github.com/user-attachments/assets/a6d125cb-6813-403a-aa0b-101be0a0ad88)
 
 # Fish2Eat : Discover Fish & Recipes
 **Bangkit 2024 Product Based Capstone Project**  

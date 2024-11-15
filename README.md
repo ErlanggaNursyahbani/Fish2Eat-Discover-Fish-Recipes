@@ -1,4 +1,4 @@
-![Gambar WhatsApp 2024-11-15 pukul 01 55 20_dfadf5af](https://github.com/user-attachments/assets/a6d125cb-6813-403a-aa0b-101be0a0ad88)
+![Gambar WhatsApp 2024-11-15 pukul 01 55 20_dfadf5af](https://github.com/user-attachments/assets/0e167d1e-f517-4ec2-8839-632b6dec1c8f)
 
 # Fish2Eat : Discover Fish & Recipes
 **Bangkit 2024 Product Based Capstone Project**  
@@ -31,6 +31,9 @@ Fish2Eat : Discover Fish & Recipes adalah aplikasi yang dirancang untuk untuk me
    - [Installation Steps](https:#)
 3. **User Guide**
    - [User Manual](https:#)
+  
+
+
 
 
 

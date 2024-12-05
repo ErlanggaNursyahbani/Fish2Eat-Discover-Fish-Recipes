@@ -5,7 +5,7 @@
 **Team ID: C242-PS368**
 
 ## Abstract
-Fish2Eat : Discover Fish & Recipes adalah aplikasi inovatif yang yang memungkinkan pengguna untuk mengidentifikasi berbagai spesies ikan melalui pengenalan gambar. Dengan hanya mengambil foto, pengguna dapat menentukan jenis ikan, melihat kandungan nutrisinya, dan mengakses ide resep.
+Fish2Eat : Discover Fish & Recipes is an innovative app that allows users to identify different species of fish through image recognition. By simply taking a photo, users can determine the type of fish, see its nutritional content, and find recipe ideas.
 
 ## Team Members
 
@@ -21,17 +21,95 @@ Fish2Eat : Discover Fish & Recipes adalah aplikasi inovatif yang yang memungkink
 
 ## Introduction
 
-Fish2Eat : Discover Fish & Recipes adalah aplikasi yang dirancang untuk untuk membantu orang-orang, terutama generasi muda seperti Gen Z, yang mungkin tidak terbiasa mengidentifikasi berbagai jenis ikan.
+Fish2Eat : Discover Fish & Recipes is a smart application designed to provide personalized fish-based recipe recommendations tailored to users' preferences and needs. The app not only helps you discover creative cooking ideas but also ensures that every fish dish you prepare is healthy, delicious, and perfectly suited to your taste.
+
+## Built with
+
+- **Machine Learning:**
+  - Jupyter Notebook
+  - Python
+  - TensorFlow
+  - Scikit Learn
+  - Pandas
+  - Numpy
+  - Git Hub
+
+- **Mobile Development:**
+  - Figma
+  - Android Studio
+  - Kotlin
+  - Retrofit
+  - Room
+  - Glide
+  - TensorFlow Lite
+  - Gson
+
+- **Cloud Computing:**
+  - Google Cloud Run
+  - Express JS
+  - Firebase
+  - Cloud Build
+  - Artifact Registry
+  - Visual Studio Code
+  - Google Cloud Platform
+  - Postman
+  - GitHub
+
+---
+
+## Getting Started
+
+### Prerequisites:
+- Android Device
+- Internet Connection
+- Camera Access
+
+### Installation:
+1. **Download APK**  
+   - Unduh file APK dari [Drive](#) <!-- Tambahkan tautan ke file APK -->
+2. **Install the App**  
+   - Instal aplikasi dan nikmati fitur-fiturnya!
+
+---
+## Fish2eat App Features
+
+- **Recipe Recommendations**: A wide range of fish recipes, from traditional dishes to international cuisines.
+- **Ingredient-Based Search**: Enter the type of fish or ingredients you have, and the app will suggest suitable recipes.
+- **Nutritional Information**: Each recipe is accompanied by detailed nutritional data to help you maintain a healthy diet.
+- **Cooking Guidance**: Step-by-step instructions that are easy to follow, even for beginners.
+
+**Fish2Eat** is perfect for anyone who wants to explore the flavors of fish-based dishes, from home cooks to seafood enthusiasts. With this app, you can create delicious meals while maximizing the nutritional value of fish.
+
+---
+
+## App Demo
+[Klik di sini untuk melihat demo](#)
+
+---
 
 ## Documentation
 
-1. **Project Overview**
-   - [Project Description](https:#)
-2. **Installation Guide**
-   - [Installation Steps](https:#)
-3. **User Guide**
-   - [User Manual](https:#)
+### Machine Learning Development Documentation
+[Link for Machine Learning Documentation](#)
+
+### Mobile Development Documentation
+[Link for Mobile Development Documentation](#)
+
+### Cloud Computing Documentation
+[Link for Cloud Computing Documentation](https://github.com/Fish2Eat-Discover-Fish-Recipes/fish2eat-api)
+[Link for Backend Machine Learning Documentation](https://github.com/Fish2Eat-Discover-Fish-Recipes/fish2eat-mlapi)
+
+### REST API Documentation
+[REST API Documentation](https://github.com/Fish2Eat-Discover-Fish-Recipes/fish2eat-api/blob/main/README.md)
+
+---
+
+
   
+![Cuplikan layar 2024-12-06 031204](https://github.com/user-attachments/assets/e26945e8-d234-4daf-a20f-823552e4abcd)
+
+
+
 
 
 

@@ -26,14 +26,16 @@ Fish2Eat : Discover Fish & Recipes is a smart application designed to provide pe
 ## Built with
 
 - **Machine Learning:**
-  - Jupyter Notebook
   - Python
   - TensorFlow
-  - Scikit Learn
-  - Pandas
-  - Numpy
-  - Git Hub
-
+  - NumPy
+  - FastAPI
+  - Uvicorn
+  - Pillow
+  - Matplotlib
+  - Google Colab
+  - GitHub
+    
 - **Mobile Development:**
   - Figma
   - Android Studio
@@ -90,7 +92,7 @@ Fish2Eat : Discover Fish & Recipes is a smart application designed to provide pe
 ## Documentation
 
 ### Machine Learning Development Documentation
-[Link for Machine Learning Documentation](#)
+[Link for Machine Learning Documentation](https://github.com/Fish2Eat-Discover-Fish-Recipes/fish2eat-ml)
 
 ### Mobile Development Documentation
 [Link for Mobile Development Documentation](#)

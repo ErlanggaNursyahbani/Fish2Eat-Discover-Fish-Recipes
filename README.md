@@ -102,7 +102,7 @@ Fish2Eat : Discover Fish & Recipes is a smart application designed to provide pe
 [Link for Backend Machine Learning Documentation](https://github.com/Fish2Eat-Discover-Fish-Recipes/fish2eat-mlapi)
 
 ### REST API Documentation
-[REST API Documentation](https://github.com/Fish2Eat-Discover-Fish-Recipes/fish2eat-api/blob/main/README.md)
+[REST API Documentation](https://github.com/Fish2Eat-Discover-Fish-Recipes/api-documentation/blob/main/README.md)
 
 ---
 

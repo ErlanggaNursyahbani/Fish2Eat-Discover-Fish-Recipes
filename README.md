@@ -68,7 +68,7 @@ Fish2Eat : Discover Fish & Recipes is a smart application designed to provide pe
 
 ### Installation:
 1. **Download APK**  
-   - Unduh file APK dari [Drive](#) <!-- Tambahkan tautan ke file APK -->
+   - Unduh file APK 
 2. **Install the App**  
    - Instal aplikasi dan nikmati fitur-fiturnya!
 
@@ -85,7 +85,7 @@ Fish2Eat : Discover Fish & Recipes is a smart application designed to provide pe
 ---
 
 ## App Demo
-[Klik di sini untuk melihat demo](#)
+(https://drive.google.com/file/d/1bOYD5S0IQObI-S5hZ9HornPa4EaJFeNF/view?usp=sharing)
 
 ---
 
@@ -95,10 +95,11 @@ Fish2Eat : Discover Fish & Recipes is a smart application designed to provide pe
 [Link for Machine Learning Documentation](https://github.com/Fish2Eat-Discover-Fish-Recipes/fish2eat-ml)
 
 ### Mobile Development Documentation
-[Link for Mobile Development Documentation](#)
+[Link for Mobile Development Documentation](https://github.com/Fish2Eat-Discover-Fish-Recipes/fish2eat-mobileapp
+)
 
 ### Cloud Computing Documentation
-[Link for Cloud Computing Documentation](https://github.com/Fish2Eat-Discover-Fish-Recipes/fish2eat-api)
+[Link for Cloud Computing Documentation](https://github.com/Fish2Eat-Discover-Fish-Recipes/fish2eat-api-2)
 [Link for Backend Machine Learning Documentation](https://github.com/Fish2Eat-Discover-Fish-Recipes/fish2eat-mlapi)
 
 ### REST API Documentation
